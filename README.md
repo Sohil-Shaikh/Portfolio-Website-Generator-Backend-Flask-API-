@@ -34,6 +34,21 @@ This project provides a backend Flask API that allows users to:
 
 ---
 
+## 🔍 API Testing in Postman
+
+API response example:
+
+![upload resume](./Postman%20Documentation/upload%20resume.png)
+
+![translate](./Postman%20Documentation/translate.png)
+
+![pricing](./Postman%20Documentation/pricing.png)
+
+---
+
+
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone Repo
